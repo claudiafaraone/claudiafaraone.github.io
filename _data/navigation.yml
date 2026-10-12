@@ -1,0 +1,22 @@
+# Links in the header menu, in this order.
+# To add a page: create it in _pages/ and add its title and url here.
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Audiovisual"
+    url: /audiovisual/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "ETICity Venezia"
+    url: /eticity-venezia/
+
+  # Uncomment once the CV PDF is saved as files/cv.pdf
+  # - title: "CV"
+  #   url: /files/cv.pdf

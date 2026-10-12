@@ -1,0 +1,39 @@
+# Videos shown on the Audiovisual page, newest first.
+# To add a video: copy a block and change the fields.
+# vimeo_id is the number at the end of the Vimeo link (vimeo.com/80030149 -> 80030149).
+
+- title: "Processo partecipativo di Raibosola"
+  title_en: "Raibosola participatory process"
+  year: 2013
+  vimeo_id: 80030149
+  description: >-
+    Documentation of the participatory process for Raibosola, carried out within the
+    action-research project LUS – Living Urban Scape (Università Iuav di Venezia).
+
+- title: "Viale della Croce Rossa – L'Aquila"
+  year: 2013
+  vimeo_id: 77385055
+  description: >-
+    A video survey of Viale della Croce Rossa in L'Aquila, within the research on
+    the city's post-earthquake landscapes and reconstructions.
+
+- title: "Roma in gioco. Itinerari di (ri)scoperta dello spazio pubblico"
+  title_en: "Rome at play. Itineraries for (re)discovering public space"
+  year: 2011
+  vimeo_id: 26329924
+  description: >-
+    Recognising the change that characterises Rome today also means looking at the
+    extraordinary multiplication of practices that cross the city and produce new
+    public spaces. Among them, play practices are of particular interest for their
+    strong relational component, as processes of public construction on a physical
+    space that is neither functionalised nor formalised, and open to everyone.
+
+- title: "Rome at the edge. Traces and imaginaries of a city"
+  year: 2010
+  vimeo_id: 13243735
+  description: >-
+    Public and civic life seems mainly not to occur in predictable space. Case studies
+    show how in-between spaces offer the opportunity to express needs of sociability and
+    a sense of belonging. In Romanina these spaces work as "reserves of urbanity", where
+    the opportunity for something new to happen in urban space still seems to exist.
+    With S. Annunziata and M. Cossu.
